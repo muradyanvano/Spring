@@ -1,5 +1,5 @@
 # Spring
-Spring boot project for user registration whit validation, using Spring data JPA, JSP,
+Spring boot project for user registration with validation, using Spring data JPA, JSP,
 
 The project is multilingual. It is designed for three languages: Armenian, English and Russian.
 
